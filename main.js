@@ -12,7 +12,7 @@
         title: "Her",
         description:
           "Ambientada en Los Ángeles, California, en el futuro cercano, la película muestra a Theodore Twombly (Joaquin Phoenix), un hombre solitario que trabaja escribiendo cartas personales para familiares o seres queridos de personas que por alguna razón no pueden escribirlas ellas mismas.",
-        image: "http://localhost:5500/imgs/her.jpg",
+        image: "imgs/her.jpg",
       },
       {
         title: "Apocalypse Now",
