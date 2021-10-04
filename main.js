@@ -6,7 +6,7 @@
         description:
           "Viajando en avión conoce a Tyler Durden (Brad Pitt), un vendedor de jabón con una clara ideología: el perfeccionismo es para los débiles y la destrucción de uno mismo es lo que, verdaderamente, vale la pena en la vida. A Jack le convence ese argumento y decide unirse a Tyler para pelear.",
         image:
-          "/imgs/fight-club.jpg",
+          "imgs/fight-club.jpg",
       },
       {
         title: "Her",
@@ -18,19 +18,19 @@
         title: "Apocalypse Now",
         description:
           "El capitán Willard es enviado a Vietnam a un lugar de la jungla donde deberá localizar y matar al coronel Kurtz (Marlon Brando), un ex Boina Verde que ha organizado su propio ejército y se deja adorar por los nativos. ... Poco a poco Willard se convierte en un hombre similar a aquel al que tiene que matar.",
-        image: "/imgs/apocalypse-now.jpg",
+        image: "imgs/apocalypse-now.jpg",
       },
       {
         title: "Apocalypse Now",
         description:
           "El capitán Willard es enviado a Vietnam a un lugar de la jungla donde deberá localizar y matar al coronel Kurtz (Marlon Brando), un ex Boina Verde que ha organizado su propio ejército y se deja adorar por los nativos. ... Poco a poco Willard se convierte en un hombre similar a aquel al que tiene que matar.",
-        image: "/imgs/apocalypse-now.jpg",
+        image: "imgs/apocalypse-now.jpg",
       },
       {
         title: "Apocalypse Now",
         description:
           "El capitán Willard es enviado a Vietnam a un lugar de la jungla donde deberá localizar y matar al coronel Kurtz (Marlon Brando), un ex Boina Verde que ha organizado su propio ejército y se deja adorar por los nativos. ... Poco a poco Willard se convierte en un hombre similar a aquel al que tiene que matar.",
-        image: "/imgs/apocalypse-now.jpg",
+        image: "imgs/apocalypse-now.jpg",
       },
     ];
 
